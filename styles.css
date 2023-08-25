@@ -1,7 +1,26 @@
 /* You can delete / re-write this img class  */
 
 img {
-    max-width: 200px;
+  max-width: 200px;
 }
 
 /* Happy coding! */
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.card {
+  max-width: 50rem;
+  width: 13rem;
+  max-height: 150rem;
+  margin: 2rem;
+  padding: 2rem;
+  border: 0.25rem solid;
+}
+.cardVader {
+  background-color: darkslateblue;
+}
+.cardYoda {
+  background-color: lightgoldenrodyellow;
+}
