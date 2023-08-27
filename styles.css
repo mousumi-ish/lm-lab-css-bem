@@ -26,6 +26,14 @@ img {
   background-color: lightgoldenrodyellow;
   text-shadow: 1px 1px 4px purple;
 }
+.cardLego {
+  background-color: rgb(139, 61, 122);
+  text-shadow: 1px 1px 4px yellowgreen;
+}
+.cardBreakdance {
+  background-color: rgb(240, 147, 8);
+  text-shadow: 1px 1px 4px purple;
+}
 .mainHeader {
   text-shadow: 2px 2px 8px #ff0000;
   font-size: 5cap;
