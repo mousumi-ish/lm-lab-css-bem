@@ -1,6 +1,11 @@
 /* You can delete / re-write this img class  */
 img {
   max-width: 230px;
+  border: 0.5rem;
+  border-radius: 1rem;
+  padding: 2 rem;
+  width: 20rem;
+  height: 12rem;
 }
 /* Happy coding! */
 .container {
@@ -10,6 +15,7 @@ img {
   background-color: DodgerBlue;
 }
 .card {
+  /* Structure */
   width: 15rem;
   height: 35rem;
   margin: 4rem;
@@ -19,6 +25,8 @@ img {
   font-size: larger;
 }
 .cardVader {
+  /* skin*/
+
   background-color: darkslateblue;
   text-shadow: 1px 1px 4px yellowgreen;
 }
@@ -56,4 +64,12 @@ img {
 .button:hover {
   background-color: #4caf50;
   color: yellow;
+}
+.cardFlower {
+  background-color: rgb(61, 8, 110);
+  text-shadow: 1px 1px 4px rgb(236, 125, 8);
+}
+.cardSpiderman {
+  background-color: rgb(207, 131, 131);
+  text-shadow: 1px 1px 4px rgb(99, 7, 211);
 }
